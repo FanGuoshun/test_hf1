@@ -262,7 +262,7 @@ def create_caption_demo():
 
 
 description = """
-# LLaMA-Adapter🚀
+# LLaMA-Adapter 🚀
 The official demo for **LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention**.
 Please refer to our [arXiv paper](https://arxiv.org/abs/2303.16199) and [github](https://github.com/ZrrSkywalker/LLaMA-Adapter) for more details.
 """
